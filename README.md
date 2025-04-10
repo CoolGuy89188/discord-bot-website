@@ -28,7 +28,16 @@ open index.html with any code editor and edit the name or logo and then have fun
 
 ## Authors
 
-[Hadi-Koubeissi](https://github.com/Hadi-Koubeissi)
+[Hadi-4100](https://github.com/Hadi-4100)
+
+## ❤️ **Support Me**
+If you're feeling generous, you can support me financially by clicking the button below. Every contribution is truly appreciated!  
+
+<p align="center">
+  <a href="https://www.patreon.com/c/hadikb/membership">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge">
+  </a>
+</p>
 
 ## License
 
